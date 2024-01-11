@@ -1,0 +1,22 @@
+th{
+    font-weight: 800;
+    font-family: Helvetica,sans-serif;
+    background-color: #A4E200;
+    color: dimgray;
+}
+table{
+    border-collapse: collapse;
+    font-family: Helvetica, sans-serif;
+    border-width: 1px;
+    border-style: solid;
+    border-color: blue;
+    background-color: #01FFFF;
+    text-align: center;
+    color: darkslateblue;
+    border-width: medium
+}
+h2{
+    padding-left: 80px;
+    font-family: Helvetica, sans-serif;
+    color: chocolate;
+}
